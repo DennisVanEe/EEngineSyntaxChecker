@@ -1,0 +1,14 @@
+void poop()
+
+Temps: 
+
+Variables: 
+
+
+- 5,2 -
+    0   0 *    SUSPEND
+    1   0 *    CALL     237           (void doSom())
+- 6,2 -
+    3   0 *    SUSPEND
+            0:
+    4   0 *    RET      0
