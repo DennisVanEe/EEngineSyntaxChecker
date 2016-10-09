@@ -1,4 +1,5 @@
 # EEngineSyntaxChecker
+A simple console application that allows the user to check the syntax of hir or her EEngine script module.
 
-A simple console application designed to test the syntax of AngelScript code for the EEngine. It does not execute or compile the 
-script in a usable form.
+The EEngine:
+https://github.com/DennisVanEe/EEngine
